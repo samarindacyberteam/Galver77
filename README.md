@@ -12,7 +12,7 @@ Powerfull Automatic Sql injection Tools Pack
 </h2>
 </p>
 <p align="center">
-  <img src="https://github.com/Kedjaw3n/Psqli/blob/main/SQL-I.jpg">
+  <img src="">
 </p>
 
 ### Fitur
