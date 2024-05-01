@@ -2,7 +2,7 @@
 # psqli-pro
 Powerfull Automatic Sql injection Tools Pack
 <h1 align="center">
-  <img src="https://i.ibb.co/LYnKqpr/logopsqli.png"></h1>
+  <img src=""></h1>
    <h2 align="center">Fast Automatic Sql injection, SQLi Dumper<br>URL Fuzzer, Dork Tools & cracking tools
 <p align="center">
   </a>
