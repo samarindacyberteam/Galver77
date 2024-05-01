@@ -7,7 +7,7 @@ Powerfull Automatic Sql injection Tools Pack
 <p align="center">
   </a>
   <a href="psqli.sh">
-     <img src="https://i.ibb.co/br5DH3z/1586858881-picsay.jpg" height="30" width="210">
+     <img src="" height="30" width="210">
   </a>
 </h2>
 </p>
